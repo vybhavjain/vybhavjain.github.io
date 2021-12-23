@@ -1926,7 +1926,8 @@ input, select, textarea {
 			left: 4em;
 			top: 3em;
 			margin: -4em 0 4em -4em;
-			width: 100%;
+			max-width: 100%;
+			height: auto;
 		}
 
 		.box.style2 h3 {
