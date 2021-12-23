@@ -1917,13 +1917,17 @@ input, select, textarea {
 		padding: 2em;
 	}
 
-		.box.style1 {
-			padding: 3em 2em 3.5em 2em;
+		.box.style1 h3 {
+			margin-bottom: 0.25em;
 		}
 
-			.box.style1 h3 {
-				margin-bottom: 0.5em;
-			}
+		.box.style1 .image {
+			position: relative;
+			left: 4em;
+			top: 3em;
+			margin: -4em 0 4em -4em;
+			width: 100%;
+		}
 
 		.box.style2 h3 {
 			margin-bottom: 0.25em;
